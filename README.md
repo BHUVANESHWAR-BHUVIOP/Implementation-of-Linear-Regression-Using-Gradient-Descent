@@ -20,7 +20,7 @@ To write a program to implement the linear regression using gradient descent.
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-data = pd.read_csv("student_scores.csv")
+data = pd.read_csv("scores.csv")
 data.head()
 data.isnull().sum()
 x = data.Hours
