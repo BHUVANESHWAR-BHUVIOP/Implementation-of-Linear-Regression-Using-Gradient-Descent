@@ -53,7 +53,8 @@ plt.xlabel("Iterations")
 plt.ylabel("loss")
 ```
 ## OUTPUT:
-![output](./imple.jpg)
+![output](./output1.png)
+![output](./output2.png)
 
 
 ## RESULT:
