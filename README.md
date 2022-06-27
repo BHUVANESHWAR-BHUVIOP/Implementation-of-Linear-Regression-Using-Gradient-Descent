@@ -17,6 +17,9 @@ To write a program to implement the linear regression using gradient descent.
 
 ## PROGRAM:
 ```
+Developed by: bhuvaneshwar v
+RegisterNumber: 212221240009
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
